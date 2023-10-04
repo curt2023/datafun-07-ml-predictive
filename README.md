@@ -1,6 +1,6 @@
 # datafun-06-data-at-rest
 
-- [GitHub Repository](https://github.com/curt2023/datafun-07-/)ml-predictive
+- [GitHub Repository](https://github.com/curt2023/datafun-07-ml-predictive)
 
 ## Step 1: Open The Project Folder
 
